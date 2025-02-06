@@ -1,0 +1,64 @@
+commit c44fd1f17f1c4d8f3d15cc3b49931b686c9f0e6d
+Merge: b16c428 1f7bc47
+Author: Cindrella Shine <cindrellashine12@yahoo.com>
+Date:   Wed Feb 5 18:34:09 2025 -0800
+
+    Resolve merge conflict in index.html
+
+commit 1f7bc47c8f48c6e9c20bb0a49759115c28b2e80f
+Author: Cindrella Shine <cindrellashine12@yahoo.com>
+Date:   Wed Feb 5 18:32:14 2025 -0800
+
+    Added favorite movie div
+
+commit b16c4288699b20a3e97845f3eac9669aeee83f5d
+Author: Cindrella Shine <cindrellashine12@yahoo.com>
+Date:   Wed Feb 5 18:30:20 2025 -0800
+
+    Added favorite food div
+
+commit d8542c95bd16108b4cc4a1fb42f53e8e0d9bb0a0
+Author: Cindrella Shine <cindrellashine12@yahoo.com>
+Date:   Wed Feb 5 18:25:22 2025 -0800
+
+    Added README.md
+
+commit 590a87e3243d914e3f67da20715175ad4f9f5f60
+Author: Cindrella Shine <cindrellashine12@yahoo.com>
+Date:   Wed Feb 5 18:23:12 2025 -0800
+
+    Delete README.md from info-fill
+
+commit 03b518b165eeb2207b29f3e3394830c4dcde8041
+Merge: 208010d 0bd0f8d
+Author: Cindrella Shine <cindrellashine12@yahoo.com>
+Date:   Wed Feb 5 18:12:22 2025 -0800
+
+    Added README.md
+
+commit 208010dea3d87df5e43572b89dd6392abfe89d8d
+Author: Cindrella Shine <cindrellashine12@yahoo.com>
+Date:   Wed Feb 5 18:07:17 2025 -0800
+
+    Added README.md
+
+commit 0bd0f8d6ba2a5da0a7297c27d1d2500b49200a08
+Merge: 1d2bfc0 dc36784
+Author: CShine1 <cshine2@calstatela.edu>
+Date:   Wed Feb 5 18:02:25 2025 -0800
+
+    Merge pull request #1 from CShine1/info-fill
+    
+    Filled in blanks in index.html
+
+commit dc367840a07239cf75180318f2fafbe7f621a917
+Author: Cindrella Shine <cindrellashine12@yahoo.com>
+Date:   Wed Feb 5 17:58:16 2025 -0800
+
+    Filled in blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
